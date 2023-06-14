@@ -2,8 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-// https://add-to-calendar-pro.com // button v2.0.0 //EN
 X-WR-CALNAME:Add-to-Calendar-Button.com Example
-SOURCE;VALUE=URI:https://add2cal.github.io/ics-demo/demo-calendar.ics
-REFRESH-INTERVAL;VALUE=DURATION:P1W
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
