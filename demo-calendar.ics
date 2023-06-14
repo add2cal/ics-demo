@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-// https://add-to-calendar-pro.com // button v2.0.0 //EN
+NAME: Add-to-Calendar-Button.com Example
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
